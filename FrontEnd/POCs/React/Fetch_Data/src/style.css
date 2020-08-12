@@ -1,0 +1,18 @@
+body {
+    background: #2f7767;
+    color: rgb(240, 229, 229);
+    letter-spacing: 1px;
+  }
+  
+  header {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .success {
+    color: #161816;
+  }
+  
+  .error {
+    color: #292020;
+  }

@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": " Tell Me Your Dreams",
+      "author": "Sidney Sheldon",
+      "price": "400",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "010-692-6593 x09125",
+      "details": "Tell Me Your Dreams is a 1998 novel by American writer Sidney Sheldon on Dissociative Identity Disorder or Split Personality.",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Stay Hungry Stay Foolish",
+      "author": " Rashmi Bansal",
+      "price": "450",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "details": "Stay Hungry Stay Foolish is a 2008 book by the Indian non-fiction author Rashmi Bansal. ",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Wise and Otherwise",
+      "author": " Sudha Murty",
+      "price": "250",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "details": "Wise & Otherwise: A Salute to life is a non-fiction book written by Sudha Murthy, chairperson of the Infosys Foundation and the wife of Narayan Murthy.",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      }
+    },
+    {
+      "name": " The Monk Who Sold His Ferrari",
+      "author": " Robin S. Sharma",
+      "price": "300",
+      "phone": "98789567",
+      "details": "A renowned inspirational fiction, The Monk Who Sold His Ferrari is a revealing story that offers the readers a simple yet profound way to live life.",
+      "id": 5
+    },
+    {
+      "name": "Wings Of Fire",
+      "author": "APJ Abdul KAlam",
+      "price": "350",
+      "phone": "98789567",
+      "details": "An Autobiography of A P J Abdul Kalam (1999), former President of India. It was written by Dr. Kalam and Arun Tiwari. ",
+      "id": 6
+    }
+  ]
+}
